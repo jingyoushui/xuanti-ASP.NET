@@ -1,2 +1,2 @@
-# xzjwb
-用ASP.NET搭建的教务部网站
+# xuanti
+用ASP.NET搭建的毕业设计选题系统

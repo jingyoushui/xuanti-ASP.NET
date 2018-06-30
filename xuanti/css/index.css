@@ -1,0 +1,43 @@
+﻿.cen {
+    width: 100%;
+    height: 615px;
+    background: url(../image/1.jpg);
+}
+
+.cen1 {
+    width: 100%;
+    height: 170px;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    font-family: microsoft yahei;
+    text-decoration: none;
+    color: #fff;
+    font-size: 80px;
+}
+
+.cen2 {
+    width: 340px;
+    height: 220px;
+    margin: auto;
+    text-align: center;
+
+    font-family: microsoft yahei;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+.login1 {
+    padding-top: 10px;
+    font-family: microsoft yahei;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+}
+
+.login2 {
+    width: 55px;
+    height: 23px;
+    background: url(../image/index/login.gif)
+}
